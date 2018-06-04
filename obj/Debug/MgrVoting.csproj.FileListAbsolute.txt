@@ -1,0 +1,9 @@
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\bin\Debug\MgrVoting.exe.config
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\bin\Debug\MgrVoting.exe
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\bin\Debug\MgrVoting.pdb
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.csprojResolveAssemblyReference.cache
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.Vote.resources
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.Properties.Resources.resources
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.csproj.GenerateResource.Cache
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.exe
+c:\users\chime\documents\visual studio 2015\Projects\MgrVoting\MgrVoting\obj\Debug\MgrVoting.pdb
